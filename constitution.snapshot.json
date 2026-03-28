@@ -1,0 +1,33 @@
+{
+  "sha256": "65890fb962e971163564fb4f1de63d9794ef75a8f9a5d4e06076052a1f8701fb",
+  "files": [
+    {
+      "file": "bin/gate.mjs",
+      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "bin/heartbeat.mjs",
+      "hash": "c0bc8656b364ee5d0535aa09c6fc959c8ea8b0dadfbd7571ad1b2ddab772fe31"
+    },
+    {
+      "file": "bin/run-vectors.cjs",
+      "hash": "8e4bb628e831e04c0e2816dc12fd529b525a8de5923ce2e1ff9f1b2f7d9c501a"
+    },
+    {
+      "file": "gate.mjs",
+      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "heartbeat.mjs",
+      "hash": "c0bc8656b364ee5d0535aa09c6fc959c8ea8b0dadfbd7571ad1b2ddab772fe31"
+    },
+    {
+      "file": "package.json",
+      "hash": "fc966d8747752cab085fbdc46115f23cfa43e4f87ea24ff87e8fcf0019014b13"
+    },
+    {
+      "file": "run-vectors.cjs",
+      "hash": "0918f7b1142d021aefafa973a1cd7dd4f881df27636b00d2d0b53379ac245c07"
+    }
+  ]
+}
