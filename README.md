@@ -11,3 +11,10 @@ This repository serves as a functional petal in the deterministic numeric contro
 
 ## Execution
 Managed by Riverbraid-Core v1.5.0.
+
+---
+## Riverbraid Ecosystem
+- **Core Framework**: [Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core)
+- **Ecosystem Index**: [Riverbraid-Manifest-Gold](https://github.com/Riverbraid/Riverbraid-Manifest-Gold)
+
+## Keywords
