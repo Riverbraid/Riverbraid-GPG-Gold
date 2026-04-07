@@ -1,0 +1,35 @@
+[
+  {
+    "file": ".anchor"
+  },
+  {
+    "file": "README.md"
+  },
+  {
+    "file": "SPEC.md"
+  },
+  {
+    "file": "TRUTH.md"
+  },
+  {
+    "file": "bin/gate.mjs"
+  },
+  {
+    "file": "bin/heartbeat.mjs"
+  },
+  {
+    "file": "bin/run-vectors.cjs"
+  },
+  {
+    "file": "gate.mjs"
+  },
+  {
+    "file": "heartbeat.mjs"
+  },
+  {
+    "file": "run-vectors.cjs"
+  },
+  {
+    "file": "swarm_anchor.txt"
+  }
+]
