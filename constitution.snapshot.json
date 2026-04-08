@@ -1,9 +1,13 @@
 {
-  "sha256": "e8b54912e4f9b0553a0b165f039390e5838592f3bc00e4460cbf8a02c32105f3",
+  "sha256": "30de4bebfc7d85dc2d33c8b91dfbc1f24a34f9ff04007c0701b92aec508b5d4e",
   "files": [
     {
       "file": ".anchor",
       "hash": "b03417507af474c83b709329d55b0dad46abf21bc5567d8d7b6bd4a24c88cdff"
+    },
+    {
+      "file": ".gitattributes",
+      "hash": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9"
     },
     {
       "file": "README.md",
@@ -11,7 +15,7 @@
     },
     {
       "file": "SOVEREIGN-ENVIRONMENT.md",
-      "hash": "5ac3bc873e7b05f0baf265b39e629e78c2354b9fe0701d15459438d2fa7f55f8"
+      "hash": "16b86ae912594ecfb3011e63b8f6c927243a155c718b9519645212d8fbfb6a2c"
     },
     {
       "file": "SPEC.md",
@@ -34,8 +38,16 @@
       "hash": "8e4bb628e831e04c0e2816dc12fd529b525a8de5923ce2e1ff9f1b2f7d9c501a"
     },
     {
+      "file": "constitution.signature.json",
+      "hash": "dea6c0e96c3ba6388913a8bccdd6d4d7e45802aedda78b3fb863563825a5e55a"
+    },
+    {
       "file": "constitution.snapshot.json.asc",
-      "hash": "b698bad0cedae8a3b984972efa49388c28d233cc1d76f2713330e214fb80976c"
+      "hash": "d49c695fc20b38f7d607e1e92c144395c606c937c7f45e39ba172d73449c4988"
+    },
+    {
+      "file": "constitution.threshold.json",
+      "hash": "2d19b05dca386dead472398730429ae7b33930db80a477d594297b6e661353a6"
     },
     {
       "file": "gate.mjs",
