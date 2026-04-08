@@ -1,77 +1,44 @@
-{
-  "sha256": "30de4bebfc7d85dc2d33c8b91dfbc1f24a34f9ff04007c0701b92aec508b5d4e",
-  "files": [
-    {
-      "file": ".anchor",
-      "hash": "b03417507af474c83b709329d55b0dad46abf21bc5567d8d7b6bd4a24c88cdff"
-    },
-    {
-      "file": ".gitattributes",
-      "hash": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9"
-    },
-    {
-      "file": "README.md",
-      "hash": "6b2b817c78813a7aa07f608819505dc4ae2e8f434634eea3479ae4745c1121cf"
-    },
-    {
-      "file": "SOVEREIGN-ENVIRONMENT.md",
-      "hash": "16b86ae912594ecfb3011e63b8f6c927243a155c718b9519645212d8fbfb6a2c"
-    },
-    {
-      "file": "SPEC.md",
-      "hash": "61f9a29365f6e7c053d7a8b4e8ba49725be1a1abe03488580cefb8c3e12543e1"
-    },
-    {
-      "file": "TRUTH.md",
-      "hash": "9b8e3bc8e76466e63aee5e345e89099ce20bbab21da3c0fe08e7f2442b4a0c3d"
-    },
-    {
-      "file": "bin/gate.mjs",
-      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-    },
-    {
-      "file": "bin/heartbeat.mjs",
-      "hash": "c0bc8656b364ee5d0535aa09c6fc959c8ea8b0dadfbd7571ad1b2ddab772fe31"
-    },
-    {
-      "file": "bin/run-vectors.cjs",
-      "hash": "8e4bb628e831e04c0e2816dc12fd529b525a8de5923ce2e1ff9f1b2f7d9c501a"
-    },
-    {
-      "file": "constitution.signature.json",
-      "hash": "dea6c0e96c3ba6388913a8bccdd6d4d7e45802aedda78b3fb863563825a5e55a"
-    },
-    {
-      "file": "constitution.snapshot.json.asc",
-      "hash": "d49c695fc20b38f7d607e1e92c144395c606c937c7f45e39ba172d73449c4988"
-    },
-    {
-      "file": "constitution.threshold.json",
-      "hash": "2d19b05dca386dead472398730429ae7b33930db80a477d594297b6e661353a6"
-    },
-    {
-      "file": "gate.mjs",
-      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-    },
-    {
-      "file": "heartbeat.mjs",
-      "hash": "c0bc8656b364ee5d0535aa09c6fc959c8ea8b0dadfbd7571ad1b2ddab772fe31"
-    },
-    {
-      "file": "manifest.json",
-      "hash": "164795348b349ce98a09bffd41d30c34e72237784d062c28f2dcc0aba12554e4"
-    },
-    {
-      "file": "package.json",
-      "hash": "fc966d8747752cab085fbdc46115f23cfa43e4f87ea24ff87e8fcf0019014b13"
-    },
-    {
-      "file": "run-vectors.cjs",
-      "hash": "f22abc93977d51bd64cae9b89acaf1a861a1d4df143524e99519662c58bde88a"
-    },
-    {
-      "file": "swarm_anchor.txt",
-      "hash": "d2259d1e793b00dcef3bd9f29637a6bdc7dce6db3f48a63aa9d09d5ead69e9dc"
-    }
-  ]
-}
+[
+  {
+    "file": ".anchor"
+  },
+  {
+    "file": ".gitattributes"
+  },
+  {
+    "file": "README.md"
+  },
+  {
+    "file": "SOVEREIGN-ENVIRONMENT.md"
+  },
+  {
+    "file": "SPEC.md"
+  },
+  {
+    "file": "TRUTH.md"
+  },
+  {
+    "file": "bin/gate.mjs"
+  },
+  {
+    "file": "bin/heartbeat.mjs"
+  },
+  {
+    "file": "bin/run-vectors.cjs"
+  },
+  {
+    "file": "constitution.snapshot.json.asc"
+  },
+  {
+    "file": "gate.mjs"
+  },
+  {
+    "file": "heartbeat.mjs"
+  },
+  {
+    "file": "run-vectors.cjs"
+  },
+  {
+    "file": "swarm_anchor.txt"
+  }
+]
