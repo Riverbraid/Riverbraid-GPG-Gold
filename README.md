@@ -6,7 +6,7 @@ This repository serves as a functional petal in the deterministic numeric contro
 
 ## Governance
 - **Fingerprint:** D9475D6B717D0E6C8EC84F6D8F86D9F4F2B083A4$
-- **Merkle Root:** $
+- **Merkle Root:** de2062
 - **Status:** Stationary
 
 ## Execution
