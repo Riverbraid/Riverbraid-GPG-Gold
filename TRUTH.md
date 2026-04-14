@@ -9,7 +9,7 @@ They are explicitly **REVOKED** for production use until the physical bootstrap 
 - **Guardian 2:** [PENDING_CEREMONY_KEY_2]
 
 ### GENESIS ANCHOR
-- **Merkle Root:** PENDING_CEREMONY_HASH
+- **Merkle Root:** de2062
 - **Commit Prefix:** de2062 (Sovereign Recognition Anchor)
 
 ## CEREMONY LOG
